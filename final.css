@@ -1,0 +1,149 @@
+#skillhero{
+	position: center;
+	text-align: center;
+	padding-bottom: 30px;
+}
+
+header{
+	background-size: 100px 100px;
+	text-align: center;
+	font-family: 'Arial', Arial;
+	color: #8EAEBD;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+nav{
+	padding:auto;
+	font-family: 'Arial', Arial;
+	background-color:#868A08;
+	font-weight: bold;
+}
+nav ul{
+	margin: 0;
+}
+main{
+	padding-bottom: 20px;
+	padding-top: 20px;
+	max-width: 1500px;
+	margin: 0 auto;
+	color: black;
+	background-image: url(images/trees.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+hr{
+	display: block;
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+	margin-left: auto;
+	margin-right: auto;
+	border-style: inset;
+	border-width: 5px;
+	background-color: #868A08;
+}
+
+
+img{
+	border-radius: 10px;
+	position: center;
+}
+.img{
+	opacity: 0.5;
+	filter: alpha (opacity=50);
+}
+.img:hover{
+	opacity: 1.0;
+	filter: alpha(opacity=100);
+}
+.position{
+	text-align: center;
+	margin-bottom: 100px;
+	color: black;
+}
+.who{
+	margin-bottom: 100px;
+	display: block;
+}
+blockquote{
+	display: block;
+	margin-left: 200px;
+	margin-right: 200px;
+}
+h1{
+	font-family: 'Arial', Arial;
+	font-weight: bold;
+	display: block;
+	text-align: center;
+	padding-bottom: 50px;
+	color: black;
+}
+h2{
+	font-family: 'Arial', Arial;
+	font-weight: bold;
+	display: block;
+	text-align: center;
+	margin-bottom: 40px;
+	color: black;
+
+}
+h3{
+	font-family: bold;
+	text-align: center;
+	color: black;
+}
+h4{
+	font-family: italic;	
+	text-align: center;
+	color:black;
+	
+}
+h5{
+	text-align: center;
+	color: black;
+}
+.footer{
+	padding-bottom: 100px;
+}
+.skill{
+	padding-top: 50px;
+}
+.indextitle{
+	padding-top: 100px;
+	text-align: center;
+}
+.homepic{
+	border-radius: 50%; 
+	padding-left: 150px;
+	padding-right:150px;
+	padding-top: 50px;
+	
+}
+.jobs{
+	border-right-style: double;
+}
+
+.contact-icons{
+	text-align: center;
+	color: #5F4C0B;
+	padding-top:30px;
+}
+
+.contact-icons i{
+	font-size:	40px;
+	margin-top: 40px;
+	color: #5F4C0B;
+	opacity: 1.0;
+
+}
+.contact-icons h4{
+	color: #5F4C0B;
+}
+
+footer{
+	padding:20px;
+	background-color:#868A08;
+	color: black;
+	text-align: center;
+	padding-bottom: 10px
+}
